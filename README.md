@@ -6,14 +6,14 @@ I'm a Chinese expat living in Berlin, found increasing interest in data science 
 
 Skills: SQL / Python / Scikit-learn / Tensorflow / GCP / MLflow / Heroku/ Flask
 
-- 🔭 I’m currently working on a personal project called ScrapChef 
-- 🌱 I’m currently learning R / Go / HTML / CSS 
+- :cook: I’m currently working on a personal project called ScrapChef 
+- :mag: I’m currently learning R / Go / HTML / CSS 
 - 👯 I’m looking to collaborate on data projects / challenges 
-- 🤔 I’m looking for help with some more learning tips / readings about data science and software testing 
+- :dart: I’m looking for help with some more learning tips or readings about data science and software testing 
 - 💬 Ask me about Chinese cuisine / self-made recipes 
-- 📫 How to reach me: ping me here or via linkedin 
-- 😄 Pronouns: /yu-n-shi/ or /yún/ /xī/ 
-- ⚡ Fun fact: I'm co-hosting a podcast show with another expat friend 
+- :email: How to reach me: ping me here or via linkedin 
+- :speak_no_evil:Pronouns: */yu-n-shi/* or */yún-xī/* 
+- :radio: Fun fact: I'm co-hosting a podcast show with another expat friend 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izzyunxi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yunxi-zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg' alt='rss' height='40'>](https://linktr.ee/wdwdn)  
