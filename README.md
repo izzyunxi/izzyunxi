@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on data projects / challenges 
 - :dart: I’m looking for help with some more learning tips or readings about data science and software testing 
 - 💬 Ask me about Chinese cuisine / self-made recipes 
-- :email: How to reach me: ping me here or via linkedin 
+- :email: How to reach me: yunxi.zh@outlook.com 
 - :speak_no_evil:Pronouns: */yu-n-shi/* or */yún-xī/* 
 - :radio: Fun fact: I'm co-hosting a podcast show with another expat friend 
 
