@@ -13,7 +13,7 @@
 - 💬 Ask me about Chinese cuisine / self-made recipes 
 - :email: How to reach me: yunxi.zh@outlook.com 
 - :speak_no_evil: Pronouns: */yu-n-shi/* or */yún-xī/* 
-- :radio: Fun fact: I'm co-hosting a podcast show with another expat friend 
+- :radio: Fun fact: I'm co-hosting a [podcast](https://wdwdn.de) show with another expat friend 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/izzyunxi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/yunxi-zhang/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg' alt='rss' height='40'>](https://linktr.ee/wdwdn)  
