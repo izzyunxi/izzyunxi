@@ -7,7 +7,7 @@
 ##### Skills: SQL / Python / Scikit-learn / Tensorflow / GCP / MLflow / Heroku/ Flask / Streamlit
 
 - :cook: I’m currently working on a personal project called ScrapChef 
-- :mag: I’m currently learning AWS / Go / HTML / CSS / PostgreSQL
+- :mag: I’m currently learning AWS / HTML / CSS / PostgreSQL / JavaScript
 - 👯 I’m looking to collaborate on data projects / challenges 
 - :dart: I’m looking for help with some more learning tips or readings about data science and software testing 
 - 💬 Ask me about Chinese cuisine / self-made recipes 
