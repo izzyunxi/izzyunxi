@@ -2,7 +2,7 @@
 #### a newcomer in data science field
 ![a newcomer in data science field](https://tinyurl.com/y4yuumyx)
 
-##### I'm a Chinese expat living in Berlin, found increasing interest in data science world and learning everything out of curiosity and lifelong passion
+##### I'm a Chinese expat living in Berlin, found increasing interest in data science world and learning everything out of curiosity and lifelong passion.
 
 ##### Skills: SQL / Python / Scikit-learn / Tensorflow / GCP / MLflow / Heroku/ Flask / Streamlit
 
