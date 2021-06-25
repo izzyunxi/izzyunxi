@@ -1,15 +1,15 @@
 ### Hi there 👋, my name is Yunxi
-#### a newcomer in data science field
-![a newcomer in data science field](https://tinyurl.com/y4yuumyx)
+#### a marketer with data science knowledge
+![a marketer with data science knowledge](https://tinyurl.com/y4yuumyx)
 
 ##### I'm a Chinese expat living in Berlin, found increasing interest in data science world and learning everything out of curiosity and lifelong passion.
 
 ##### Skills: SQL / Python / Scikit-learn / Tensorflow / GCP / MLflow / Heroku/ Flask / Streamlit
 
 - :cook: I’m currently working on a personal project called ScrapChef 
-- :mag: I’m currently learning AWS / HTML / CSS / PostgreSQL / JavaScript
+- :mag: I’m currently learning HTML / CSS / PostgreSQL / JavaScript and many more exciting skills
 - 👯 I’m looking to collaborate on data projects / challenges 
-- :dart: I’m looking for help with some more learning tips or readings about data science and software testing 
+- :dart: I’m looking for help with some more learning tips or readings about data science and/or software development 
 - 💬 Ask me about Chinese cuisine / self-made recipes 
 - :email: How to reach me: yunxi.zh@outlook.com 
 - :speak_no_evil: Pronouns: */yu-n-shi/* or */yún-xī/* 
